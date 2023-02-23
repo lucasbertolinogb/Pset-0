@@ -5,5 +5,7 @@ para ser mais especifico um certificado GRATUITO para todos que querem começar 
 
 Voltando ao assunto principal , este é um projeto dado por Abrantes (o mesmo do uvv_bd_1_cc1m que eu não fiz 100%) que tem por finalidade trocar uma aula quinzenal por
 um certificado já proposto.
+
 >(obs: e é claro vai ter os psets de sua autoria para fazer mais tarde ... (;-;)
+
 Onde esses psets teram 2 semanas para fazer e tendo ao todo 11 psets... ou seja 22 semanas totais
