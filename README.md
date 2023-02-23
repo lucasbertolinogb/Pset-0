@@ -6,9 +6,9 @@ para ser mais especifico um certificado GRATUITO para todos que querem começar 
 Voltando ao assunto principal , este é um projeto dado por Abrantes (o mesmo do uvv_bd_1_cc1m que eu não fiz 100%) que tem por finalidade trocar uma aula quinzenal por
 um certificado já proposto.
 
->(obs: e é claro vai ter os psets de sua autoria para fazer mais tarde ... (;-;)
-
 Onde esses psets teram 2 semanas para fazer e tendo ao todo 11 psets... ou seja 22 semanas totais
+
+>(obs: e é claro vai ter os psets de sua autoria para fazer mais tarde ... (;-;)
 
 Em conclusão, este é um projeto de minha autoria (menos alguns sprites e poucas sons) onde você é um dino que esta brincando com sua bola laranja
 e quanto mais você bater nela maior será sua pontução e ``CUIDADO`` (que o tuburão vai te pegar) ,pois dino morre (literalmente) de medo de qualquer coisa 
